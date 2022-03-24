@@ -1,13 +1,3 @@
-## Running React on Repl.it
-
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
-
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+### Description
+- This is the frontend which is built in React. It is the counterpart of a solana and anchor based project where user can put the links to their favourite gifs into the their collection which is linked with their wallet.
+- To run it first install the Phantom wallet from the chrome store, then from settings change the environment to `devnet` and then run the following from your terminal `npm start`
